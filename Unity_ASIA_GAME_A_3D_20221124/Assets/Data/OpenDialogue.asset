@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 824204de87c42474bbfe715a688c8132, type: 3}
   m_Name: OpenDialogue
   m_EditorClassIdentifier: 
-  dialogueName: "\u6211"
+  dialogueName: 
   dialogueContents:
   - "\u6211\u662F\u8AB0\uFF1F \u6211\u5728\u90A3\u88CF\uFF1F"
   - "\u9019\u88CF\u597D\u53EF\u6015\uFF0C \u6211\u60F3\u8981\u5FEB\u9EDE\u96E2\u958B\u3002\u3002\u3002"
